@@ -1,1 +1,3 @@
-# Discord Rich Presence Integration for Binary Ninja
+# binja-drp
+
+Discord Rich Presence integration for Binary Ninja.
